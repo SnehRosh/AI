@@ -6,3 +6,4 @@ xgboost
 opencv-contrib-python
 pillow
 gradio
+tensorflow
